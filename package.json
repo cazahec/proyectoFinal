@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Proyecto final,Integrantes: Cazares, Martinez, Moreno",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "proyecto",
+    "electron",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Cazares, Martinez, Moreno",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.10",
+    "electron-packager": "^13.0.0",
+    "electron-require": "^0.3.0"
+  }
+}
